@@ -13,13 +13,15 @@ public class LearnVariable {
         // ada juga penggunaan var tapi dengan syarat harus langsung diberikan
         // definisinya
         // sepertinya hanya berlaku pada penggunaan string saja
-        var kerja = "akulaku";
-        kerja = "iki";  
+        // var kerja = "akulaku";
+        // kerja = "iki";  
 
         // ada final dimana tidak akan dapat diubah2 diselanjutnya dan bersifat statis
         final String marga = "Saragih";
 
-        System.out.println(kerja + " " +marga);
+        // System.out.println(kerja + " " +marga);
+        
+        System.out.println(marga);
 
     }
 }

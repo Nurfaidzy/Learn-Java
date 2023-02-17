@@ -18,6 +18,11 @@ public class LearnIfStatement {
             default:
                 break;
         }
+
+        // Tennary operator
+        // kelihatannnya ternarinya hanya harus dibuat kedalam bentuk variable untuk hasil 
+       String HasilDiscus = a >= 100 ?  "Wih bagus":  "yahhhhhhh"; 
+       System.out.print(HasilDiscus);
     }
     
 }
