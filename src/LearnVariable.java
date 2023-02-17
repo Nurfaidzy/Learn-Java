@@ -14,6 +14,7 @@ public class LearnVariable {
         // definisinya
         // sepertinya hanya berlaku pada penggunaan string saja
         var kerja = "akulaku";
+        kerja = "iki";  
 
         // ada final dimana tidak akan dapat diubah2 diselanjutnya dan bersifat statis
         final String marga = "Saragih";
